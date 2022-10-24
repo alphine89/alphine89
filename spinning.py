@@ -2,7 +2,7 @@ import turtle
 turtle. speed(0)
 turtle. bgcolor("black") 
 for i in range (15) :
-    for colours in ("red", "magneta" "blue"  "orange" "yellow "purple" "cyam" "grey" )
+    for colours in ("red", "magneta", "blue", "orange", "yellow", "purple", "cyam", "grey" )
     turtle. color(colours)
     turtle. pensize(4)
     turtle. left(5)
